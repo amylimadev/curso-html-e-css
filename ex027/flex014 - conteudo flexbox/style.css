@@ -37,7 +37,7 @@ section.flex-content {
     display: flex;
     flex-flow: column nowrap;
 }
-
+ 
 article.text-media {
     display: flex;
     flex-flow: row wrap;
